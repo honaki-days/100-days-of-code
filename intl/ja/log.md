@@ -25,3 +25,13 @@
 改善点：24時までに終わらせれなかった。朝起きる。
 
 **リンク** Progate　https://prog-8.com/lessons/html/study/1
+
+### 3日目: 2021年8月19日（木）
+
+**今日の進捗**: ProgateのHTML＆CSSを進めた。コンテンツ、お問合せフォームを学びました。
+
+**思ったこと** 
+よかった点：理解できたこと。
+改善点：昨日記録を残せなかったこと。眠くなってもやる。
+
+**リンク** Progate　https://prog-8.com/lessons/html/study/1
