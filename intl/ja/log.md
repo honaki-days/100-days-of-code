@@ -35,3 +35,13 @@
 改善点：昨日記録を残せなかったこと。眠くなってもやる。
 
 **リンク** Progate　https://prog-8.com/lessons/html/study/1
+
+### 4日目: 2021年8月28日（土）
+
+**今日の進捗**: javaの研修動画を見た。
+
+**思ったこと** 
+よかった点：旅行中だけど出来たこと。
+改善点：起きた後、目を覚ます行動すればもう少しできた。
+
+**リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
