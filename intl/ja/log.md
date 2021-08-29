@@ -45,3 +45,13 @@
 改善点：起きた後、目を覚ます行動すればもう少しできた。
 
 **リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
+
+### ５日目: 2021年8月2９日（日）
+
+**今日の進捗**: 進めることが出来なかった。
+
+**思ったこと** 
+よかった点：特になし。.
+改善点：旅行中でも1秒でもプログラミングに触る。.
+
+**リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
