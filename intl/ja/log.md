@@ -75,3 +75,13 @@
 改善点：25分活動、5分休憩を取り入れなかったこと。.
 
 **リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
+
+### 8日目: 2021年9月1日（水）
+
+**今日の進捗**: 研修を進めた。
+
+**思ったこと** 
+よかった点：入社1日目で疲れていても学習したこと.
+改善点：特になし.
+
+**リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
