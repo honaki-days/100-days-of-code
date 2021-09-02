@@ -85,3 +85,13 @@
 改善点：特になし.
 
 **リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
+
+### 8日目: 2021年9月2日（木）
+
+**今日の進捗**: IT用語と現場でよく使う用語を進めた。
+
+**思ったこと** 
+よかった点：昼休みにスタバで学習したこと。
+改善点：スタバはショートサイズにする。
+
+**リンク** 研修　https://letsengineer.jp/curriculum/detail/Java
