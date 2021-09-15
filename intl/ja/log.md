@@ -149,9 +149,18 @@
 
 ### 15日目: 2021年9月14日（火）
 
+**今日の進捗**: Javaの学習をした。（this,super)
+
+**思ったこと** 
+よかった点： 週40時間の学習進捗表を作ったこと。
+改善点：帰宅が早くなり、気分が上がり、帰り道にスーパーに寄ってたくさん買い物をしたこと。
+**リンク** 研修　https://letsengineer.jp/curriculum/Java/2/9
+
+### 15日目: 2021年9月15日（水）
+
 **今日の進捗**: Javaの学習をした。（
 
 **思ったこと** 
 よかった点： 
 改善点：
-**リンク** 研修　https://letsengineer.jp/curriculum/Java/2/8
+**リンク** 研修　https://letsengineer.jp/curriculum/Java/2/9
