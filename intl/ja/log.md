@@ -185,9 +185,10 @@
 
 ### 19日目: 2021年9月21日（月）
 
-**今日の進捗**: HTML＆CSSの学習をした。（Progateの道場コース中級)
+**今日の進捗**: HTML＆CSSの学習をした。（Progateの道場コース中級、HTML&CSS研修)
 
 **思ったこと** 
-よかった点： 道場コースを終えたこと。
-改善点：
-**リンク** Progate　https://prog-8.com/courses
+よかった点： 眠くても学習したこと。
+改善点：朝に10分で良いから学習するために7時30分に起きる。
+**リンク** Progate　https://prog-8.com/courses. 
+HTML&CSS https://letsengineer.jp/curriculum/Java/3/5. 
