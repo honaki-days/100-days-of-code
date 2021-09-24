@@ -192,3 +192,21 @@
 改善点：朝に10分で良いから学習するために7時30分に起きる。
 **リンク** Progate　https://prog-8.com/courses. 
 HTML&CSS https://letsengineer.jp/curriculum/Java/3/5. 
+
+### 20日目: 2021年9月23日（水）
+
+**今日の進捗**: HTML＆CSSの学習をした。（flexboxなど）
+
+**思ったこと** 
+よかった点： 彼女との電話の前に学習したこと。
+改善点：電話するなら帰宅中に寄り道等で無駄な時間を過ごさない。
+**リンク** HTML&CSS https://letsengineer.jp/curriculum/Java/3/9. 
+
+### 21日目: 2021年9月24日（木）
+
+**今日の進捗**: HTML＆CSSの学習をした。（Div Puzzle）
+
+**思ったこと** 
+よかった点： 課題を終えるまで寝なかったこと。
+改善点：朝ごはんを食べて昼寝をしたこと。
+**リンク** HTML&CSS https://letsengineer.jp/curriculum/Java/3/12. 
